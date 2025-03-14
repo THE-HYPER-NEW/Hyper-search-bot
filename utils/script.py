@@ -1,27 +1,31 @@
 class script(object):
-    START = """**Hello {} 🤟**
+    START = """**Hello {} 🥀**
    
-I am **Find Post Bot**.I am best Channel Link Search Bot! 
+I am **ACX Finder Bot**.I am best Channel Link Search Bot! 
 I Will filter your channel posts automatically and send it in your group chat when Someone search it."""
 
-    HELP = """To Use me In A Group
+    HELP = """<b>To Use me In A Group
 
 - Add me in your group & channel with all permissions. 
-- Send /verify in group & wait for It To Accept Or Directly Contact To Owner After Request @GreyMatter_Bots.
+
+- Send /verify in group & wait for It To Accept Or Directly Contact To Owner After Request @THEHYPER_ACX
+
 - After verification send /connect YourChannelID
+
 - Example : /connect -100xxxxxxxxxx
-- Done ✅. <b><I>Enjoy 💜❤</I></b> )
+
+-Done ✅. <b><I>Enjoy 💜❤</I></b> )
 
 Remove a Channel with - /disconnect-100xxxxxxxxxxx
 this will help you to remove a indexed channel from your group.
 
-Get connected channels list with - /connections"""
+Get connected channels list with - /connections</b>"""
 
-    ABOUT = """Developed By @CyniteBackup
+    ABOUT = """Developed By @THEHYPER_ACX 
 
 ✯ Mʏ Nᴀᴍᴇ:  {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/CyniteOfficial'>Harman</a>
-✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org'>Pʏᴛʜᴏɴ 3</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/THEHYPER_ACX'>𝗧ʜᴇＨʏᴘᴇʀ</a>
+✯ Gʀᴏᴜᴘ: <a href='https://t.me/ACX_DISCUSSION'>ACX Gʀᴏᴜᴘ</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://cloud.mongodb.com/'>MᴏɴɢᴏDB</a>
 ✯ Bᴏᴛ Sᴇʀᴠᴇʀ: : <a href='https://heroku.com'>Heroku</a>"""
 
